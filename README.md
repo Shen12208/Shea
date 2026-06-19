@@ -1,6 +1,6 @@
 <!--
   BEFORE PUBLISHING, replace every bracketed placeholder:
-  Shearl Ann Tapia, [your.email@example.com], [linkedin.com/in/you], [github.com/you],
+  Shearl Ann Tapia, shearlanntapia08@gmail.com, [linkedin.com/in/you], [github.com/you],
   [Honeypot tool], [Ticketing platform], [Year]
   Also swap the italic "e.g." notes inside each case for what you actually did,
   and adjust the 15-Day Timeline to match your real schedule.
@@ -168,7 +168,7 @@ soc-analyst-portfolio/
 
 ## Contact
 
-- **Email:** [your.email@example.com]
+- **Email:** shearlanntapia08@gmail.com
 - **LinkedIn:** [linkedin.com/in/you]
 - **GitHub:** [github.com/you]
 
